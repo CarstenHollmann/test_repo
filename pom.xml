@@ -421,6 +421,7 @@
 						         <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
 						         <versionTagPrefix>blither/</versionTagPrefix>
 						       </flowInitContext>
+						       <useReleaseProfile>false</useReleaseProfile>
 						</configuration>
 					</plugin>
 				</plugins>
