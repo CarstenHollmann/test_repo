@@ -419,7 +419,7 @@
 						         <featureBranchPrefix>feature/</featureBranchPrefix>
 						         <releaseBranchPrefix>release/</releaseBranchPrefix>
 						         <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
-						         <versionTagPrefix>blither/</versionTagPrefix>
+						         <versionTagPrefix></versionTagPrefix>
 						       </flowInitContext>
 						       <useReleaseProfile>false</useReleaseProfile>
 						</configuration>
