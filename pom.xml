@@ -9,7 +9,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.n52.test</groupId>
 	<artifactId>release_test</artifactId>
-	<version>1.2.3</version>
+	<version>1.2.4-SNAPSHOT</version>
 	<name>52°North Release Test</name>
 	<description>52°North Release Test</description>
 	<inceptionYear>2014</inceptionYear>
